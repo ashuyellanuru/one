@@ -756,7 +756,7 @@
         const PRODUCTS = [{
                 id: 1,
                 title: 'iPhone 14 Pro Max',
-                price: 2500,
+                price: 1500,
                 oldPrice: 3000,
                 rating: 5,
                 reviews: 128,
